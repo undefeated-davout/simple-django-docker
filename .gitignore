@@ -1,0 +1,6 @@
+.idea/
+
+/db/
+/src/
+/static/
+/docker_db_share/
